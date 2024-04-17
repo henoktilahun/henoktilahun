@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there, I'm Henok Tilahun 👋
 
-<!--
-**henoktilahun/henoktilahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm currently a Full-Stack bootcamp student at [TripleTen](https://tripleten.com/)
+- 🖥 I’m currently working as a System Administrator
+- 🎓 I’m currently learning JavaScript
+- 📹 Fun fact: I have a [YouTube channel](https://youtube.com/c/henoktech) and I love playing soccer
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/henoktilahun_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-tilahun/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/henoktech)
+
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henoktilahun&show_icons=true&theme=transparent)
